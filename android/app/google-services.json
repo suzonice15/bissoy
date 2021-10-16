@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446408466772",
+    "firebase_url": "https://bissoyapp.firebaseio.com",
+    "project_id": "bissoyapp",
+    "storage_bucket": "bissoyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446408466772:android:09e1fc458e5920648e28c1",
+        "android_client_info": {
+          "package_name": "com.bissoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446408466772-asin66rkftmolf8dgp8nb7e0caupq4hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstQYlMK1_FPNRQFfuLmsOqCPQHu8bTVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446408466772-asin66rkftmolf8dgp8nb7e0caupq4hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
